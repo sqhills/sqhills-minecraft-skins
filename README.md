@@ -7,3 +7,5 @@ A set of skins for minecraft using material colors.
 
 ## Special Thanks
 Hairstyle learnt from IMakeSkins's works.
+
+I imported this repo from gitee and some of the commits were by me and "gitee-org". I have no idea why gitee tamperd with the commit history. This is just ridiculous.
